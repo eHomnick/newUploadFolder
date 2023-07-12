@@ -15,15 +15,11 @@ import Fen from './components/clients/Shop/Fen/Fen'
 import {Outlet} from 'react-router-dom'
 
 
-//לבחור צבעים
-//לוגו
-//תמונות לאתר
 
 function App() {
  
 
   return (
-    // <Provider store={store}>
     <div className="App">
    
 
