@@ -13,9 +13,6 @@ import Spreyhair from './components/clients/Shop/Spreyhair/Spreyhair'
 import Spreyface from './components/clients/Shop/Spreyface/Spreyface';
 import Fen from './components/clients/Shop/Fen/Fen'
 import {Outlet} from 'react-router-dom'
-import { Provider } from 'react-redux';
-import { store } from './redux/store';
-
 
 
 //לבחור צבעים
