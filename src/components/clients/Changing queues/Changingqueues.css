@@ -1,0 +1,36 @@
+#navbarScroll{
+    background-color:mistyrose;
+
+    
+}
+.cancellation{
+    border: 1.5px solid black;
+    /* margin: auto;  */
+    padding: 25px;
+    text-align: center;
+    text-align: right;
+  }
+.button{
+    /* margin-right:95%; */
+    width: 120px;
+    height: 60px;
+    border-color: rgba(255,222,23,.7);
+    border-radius: 10px;
+    text-align: center;
+    background-color:mistyrose;
+    
+}
+.images{
+    /* margin-left:40%; */
+    display: inline-block;
+}
+.details{
+    /* margin-left:45%; */
+    /* margin-bottom:0% ;
+    display: inline-block; */
+    scroll-margin-top: 100%;
+
+}
+
+
+

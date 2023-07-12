@@ -1,0 +1,40 @@
+/* לתפוס לפי ID */
+/* #name{
+    background-color:rgb(168, 247, 229);
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+} */
+/* #password{
+    background-color:'#d3d6d8';
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+} */
+/* לתפוס לפי שם קלאס */
+/* .class{
+    font-family: 'Verdana, Geneva, Tahoma, sans-serif';
+} */
+
+/* #Model{
+    background-color:'#d3d6d8';
+}  */
+/* 
+#sarah{
+    background-color:rgb(118, 220, 228);
+    border-color: rgb(118, 220, 228);
+     
+
+} */
+.home{
+    background-image: url(../../Images/modern-beauty-salon-interior.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+}
+.login{
+    border-radius: 15px;
+    height: 50vh;
+    width: 50vw;
+    background-color: rgba(255, 255, 255, 0.402);
+}
+.a{
+    color: black;
+}
